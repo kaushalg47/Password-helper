@@ -1,3 +1,3 @@
-run npm i\n
-create an empty dist folder\n
-run npx webpack
+run npm i  
+create an empty dist folder  
+run npx webpack  
